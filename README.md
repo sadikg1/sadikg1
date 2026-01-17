@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://sadik-ghimire.netlify.app/](https://sadik-ghimire.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sadikghimire.com.np/](https://sadikghimire.com.np/)
 
 - 📝 I regularly write articles on [https://medium.com/@sadeekg133](https://medium.com/@sadeekg133)
 
