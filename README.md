@@ -5,17 +5,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadikg1&label=Profile%20views&color=0e75b6&style=flat" alt="sadikg1" /> </p>
 
 
-- - 🌱 I’m currently exploring **DevOps, Cloud Infrastructure & Automation**
+- 🌱 I’m currently exploring **DevOps, Cloud Infrastructure & Automation**
 
 - 👨‍💻 All of my projects are available at [https://sadikghimire.com.np/](https://sadikghimire.com.np/)
 
 - 📝 I regularly write articles on [https://medium.com/@sadeekg133](https://medium.com/@sadeekg133)
 
-- - 💬 Ask me about **Linux, Cloud, Virtualization, Networking & CI/CD**
+- 💬 Ask me about **Linux, Cloud, Virtualization, Networking & CI/CD**
 
 - 📫 How to reach me **sadeekg133@gmail.com**
 
-- - ⚡ Fun fact **Turning manual operations into automated workflows 🚀**
+- ⚡ Fun fact **Turning manual operations into automated workflows 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
